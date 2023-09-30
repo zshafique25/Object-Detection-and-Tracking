@@ -20,11 +20,11 @@ The OOP implementation is designed to be easily maintainable and customizable so
 
 ### Code files
 
-* [YOLOv8_Object_Detection_procedural.ipynb](https://github.com/mohamedamine99/Object-tracking-and-counting-using-YOLOV8/blob/main/YOLOv8_Object_Detection_procedural.ipynb) : The notebook provides code for object detection using YOLOv8, including different variants with different architectures and trade-offs between speed and accuracy. The code follows a procedural approach rather than object-oriented programming to make it simpler and easier to understand for beginners.
+* [YOLOv8_Object_Detection_procedural.ipynb]: The notebook provides code for object detection using YOLOv8, including different variants with different architectures and trade-offs between speed and accuracy. The code follows a procedural approach rather than object-oriented programming to make it simpler and easier to understand for beginners.
 
-* [YOLOv8_Object_Detection_OOP.ipynb](https://github.com/mohamedamine99/Object-tracking-and-counting-using-YOLOV8/blob/main/YOLOv8_Object_Detection_OOP.ipynb) : This notebook provides code for object detection using YOLOv8, including different variants with different architectures and trade-offs between speed and accuracy. The code follows an object-oriented approach rather than procedural programming to make it easier to understand, modify and maintain.
+* [YOLOv8_Object_Detection_OOP.ipynb]: This notebook provides code for object detection using YOLOv8, including different variants with different architectures and trade-offs between speed and accuracy. The code follows an object-oriented approach rather than procedural programming to make it easier to understand, modify and maintain.
 
-* [YOLOv8_Object_Counter_OOP.ipynb](https://github.com/mohamedamine99/Object-tracking-and-counting-using-YOLOV8/blob/main/YOLOv8_Object_Counter_OOP.ipynb) : This notebook provides code for object detection, tracking and counting also using different YOLOv8 variants and an object-oriented approach.
+* [YOLOv8_Object_Counter_OOP.ipynb]: This notebook provides code for object detection, tracking and counting also using different YOLOv8 variants and an object-oriented approach.
 
 * [YOLOv8_Object_Counter_OOP_v2.ipynb]: This notebook provides code for object detection, tracking and counting also using different YOLOv8 variants and an object-oriented approach but the difference from [YOLOv8_Object_Counter_OOP.ipynb]is that the classes are imported as an external script named [yolo_detect_and_count.py] in order to avoid defining the classes inside the notebook and make it less cluttered with lines of code.
 
