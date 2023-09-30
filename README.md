@@ -1,4 +1,4 @@
-# Object-tracking-and-counting-using-YOLOV8
+# Object-tracking-and-counting-using-YOLO
 
 <p align="center">
     <img src="https://github.com/zshafique25/Object-Detection-and-Tracking/blob/master/GIFs/yolov8m/yolov8m%20--%20traffic%202.gif?raw=true" width=470
