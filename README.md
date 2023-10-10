@@ -1,8 +1,4 @@
-# Object-tracking-and-counting-using-YOLO
-
-<p align="center">
-    <img src="https://github.com/zshafique25/Object-Detection-and-Tracking/blob/master/GIFs/yolov8m/yolov8m%20--%20traffic%202.gif?raw=true" width=470
-</p>
+# Object-detection-and-tracking-using-YOLO
 
 This repository contains the code for object detection, tracking, and counting using the YOLOv8 algorithm by ultralytics for object detection and the SORT (Simple Online and Realtime Tracking) algorithm for object tracking. The project provides code for both procedural and object-oriented programming implementations in Python.  
 
